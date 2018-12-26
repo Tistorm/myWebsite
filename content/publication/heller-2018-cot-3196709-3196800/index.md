@@ -10,6 +10,5 @@ publication_short = "In *DIS*"
 tags = ["3d", "education", "fablab", "laser cutting", "maker", "physical prototyping", "rapid prototyping"]
 url_pdf = "http://doi.acm.org/10.1145/3196709.3196800"
 doi = "10.1145/3196709.3196800"
-[image]
 +++
 
